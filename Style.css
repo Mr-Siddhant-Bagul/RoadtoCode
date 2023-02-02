@@ -1,0 +1,103 @@
+    .Newclass{
+    display: block;
+    height: 30px;
+    background-color: rgba(241, 237, 127, 0.644);
+    text-align: center;
+    }
+
+    .animeimage{
+        filter: drop-shadow(0 0 0.75rem #4285f4);
+    }
+
+    .animeimage2{
+        filter: drop-shadow(0 0 0.75rem #fbbc05);
+    }
+
+
+    .ExploreCourse{
+        height: 35px; 
+        width: 160px; 
+        background-color: rgba(0, 0, 0, 0.842); 
+        color: white; 
+        margin-left: 150px;
+        margin-top: 30px; 
+        float: right; 
+        border-radius: 5px 5px 5px 5px; 
+        text-align: center; 
+        float: left;
+        font-family: cursive;
+    }
+
+    .Callus{
+        height: 35px; 
+        width: 90px; 
+        background-color: rgba(236, 170, 47, 0.968); 
+        color: black; 
+        margin-left: 50px;
+        margin-top: 30px; 
+        float: right; 
+        border-radius: 5px 5px 5px 5px; 
+        text-align: center; 
+        float: left;
+        font-family: cursive;
+    }
+
+    .MeetCard{
+        height: 100px;
+        width: 400px;
+        margin: 3px;
+        margin-left: 150px;
+        margin-top: 20px;
+        float: left;
+        padding: 3px;
+        border: 1px;
+        border-color: rgba(0, 0, 0, 0.222);
+        border-style: solid;
+        border-radius: 10px 10px 10px 10px;
+    }
+
+    .FileCard{
+        height: 100px;
+        width: 400px;
+        margin: 3px;
+        margin-left: 30px;
+        margin-top: 20px;
+        float: left;
+        padding: 3px;
+        border: 1px;
+        border-color: rgba(0, 0, 0, 0.222);
+        border-style: solid;
+        border-radius: 10px 10px 10px 10px;
+    }
+
+    .C{
+        display: inline-block;
+        height: 500px;
+        width: 400px;
+        border: 2px solid rgba(0, 0, 0, 0.289);
+        border-radius: 5px;
+        box-shadow: 2px grey;
+        margin: 10px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding: 5px;
+    }
+
+    .Icon{
+        display: inline-block;
+        height: 100px; 
+        width: 100px;
+        border-radius: 50%; 
+        border: 1px solid rgb(255, 254, 254); 
+        box-shadow: 2px 2px 2px 2px rgb(149, 150, 150);
+        margin-left: 15%;
+    }
+
+    .Footer{
+        display: inline-block;
+        height: 350px;
+        background-color: rgb(0, 25, 26)
+        }
+
+
+
